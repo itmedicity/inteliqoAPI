@@ -1,0 +1,2 @@
+# inteliqoAPI
+Inteliqo server API
